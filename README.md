@@ -24,6 +24,6 @@ The information necessary for builidng and operating the station is provided bel
 
 ### Operation
 
-### Testing
+## Testing
 
 Detailed protocols and results from testing the washing station are provided in [`testing/README.md`](testing/README.md).

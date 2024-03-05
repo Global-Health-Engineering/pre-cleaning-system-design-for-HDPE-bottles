@@ -14,7 +14,7 @@ The `.cad` files allowing for building the washing station are available in `har
 
 ![CAD drawing of complete assembly](/img/complete_assembly_cad.png)
 
-![photo of complete assembly](/img/complete_assembly_photo.png)
+![photo of complete assembly](/img/complete_assembly_photo.jpeg)
 
 ## User Manual
 

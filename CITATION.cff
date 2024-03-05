@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "To cite this repository, use:"
+license: CC-BY-4.0
+title: "Design of an HDPE bottle collection and pre-cleaning system for recycling in Blantyre, Malawi"
+date-released: "2023-12-31"
+type: software
+authors:
+  - family-names: Stutz
+    given-names: Timo
+    email: timo.stutz@hest.ethz.ch
+  - family-names: Boynton
+    given-names: Lin
+    email: lboynton@ethz.ch
+    orcid: https://orcid.org/0000-0002-9944-3834
+  - family-names: Tilley
+    given-names: Elizabeth
+    email: tilleye@ethz.ch
+    orcid: https://orcid.org/0000-0002-2095-9724
+  - family-names: Tkaczuk
+    given-names: Jakub
+    email: jtkaczuk@ethz.ch
+    orcid: https://orcid.org/0000-0001-7997-9423
+contact:
+  - family-names: Tkaczuk
+    given-names: Jakub
+    email: jtkaczuk@ethz.ch
+    orcid: https://orcid.org/0000-0001-7997-9423
+version: 0.0.1

@@ -37,9 +37,7 @@ Supervisors:
 
 This technical documentation presents an overview of a prototype for an HDPE bottle pre-cleaning station, developed as a sustainable solution to enhance recycling processes in low-resource settings. The prototype was developed within the master’s thesis of Timo Stutz, contributing to a PhD project conducted by Lin Boynton at the Chair of Global Health Engineering at ETH Zurich. The PhD research aims to design, implement, and evaluate a closed-loop plastic bottle recycling scheme in low-income countries to efficiently, and effectively manage the flow of waste bottles from consumers into new drinking bottles. The prototype addresses the challenges of recycling contaminated HDPE bottles by introducing an efficient, scalable, and locally adaptable pre-cleaning system aiming to reduce the efforts and costs of subsequent recycling processes. Designed and tested through a collaborative research project, this documentation summarizes the prototype's design, constructional and operational procedures, maintenance of the device, and safety recommendations.
 
-The underlying master’s thesis is openly accessible on the ETH Zurich research collection and can be found here: 
-- [https://www.research-collection.ethz.ch/handle/20.500.11850/658745](https://www.research-collection.ethz.ch/handle/20.500.11850/658745)
-- [https://doi.org/10.3929/ethz-b-000658745](https://doi.org/10.3929/ethz-b-000658745)
+This repository compliments the openly-accessible master’s thesis, available the [ETH Zurich research collection](https://doi.org/10.3929/ethz-b-000658745).
 
 # 2. Prototype Overview
 
@@ -59,17 +57,15 @@ The pre-cleaning station was mainly developed to address cleanliness requirement
 
 <img src="/media/doc_figures/complete_assembly.png">
 <p align="center"> 
-
-*Figure 1: Complete assembly of the pre-cleaning station*
+Figure 1: Complete assembly of the pre-cleaning station
 <br><br>
-<img src="/media/doc_figures/complete_assembly_pic.jpg">
 
-*Figure 2: Complete assembly of the prototype. All components are included.*
+<img src="/media/doc_figures/complete_assembly_pic.jpg">
+Figure 2: Complete assembly of the prototype. All components are included.
 <br><br>
 
 <img src="/media/doc_figures/front_pic.jpg">
-
-*Figure 3: Front view of the inflation and cleaning modules as installed.*
+Figure 3: Front view of the inflation and cleaning modules as installed.
 <br><br>
 </p>
 
@@ -81,7 +77,9 @@ The pre-cleaning station was mainly developed to address cleanliness requirement
 
 <summary>Expand for part list</summary>
 
-*Table 1: Part list of the pre-cleaning station in CHF. Where necessary, local prices in MWK were converted into CHF according to the exchange rate at the time of the project.*
+<p align="center">
+Table 1: Part list of the pre-cleaning station in CHF. Where necessary, local prices in MWK were converted into CHF according to the exchange rate at the time of the project.
+</p>
 
 | **Module**                       | **No.** |        **Item**         | **Specs**                          | **Qty.** | **Source**                        | **Total Price (CHF)**  |
 | -------------------------------- | :-----: | :---------------------: | ---------------------------------- | -------- | --------------------------------- | :--------------------: |
@@ -149,9 +147,7 @@ The realization of the inflation module is kept as simple as possible and is pre
 
 <p align="center"> 
 <img src="/media/doc_figures/3d_inflation_cleaning.png">
-
-*Figure 4: 3D-representation of modules: a) Inflation Module, b) Cleaning Module.*
-<br>
+Figure 4: 3D-representation of modules: a) Inflation Module, b) Cleaning Module.
 </p>
 
 ### **Cleaning Module**
@@ -164,9 +160,7 @@ Figure 5 illustrates the components of the water module. Initially, the placemen
 
 <p align="center"> 
 <img src="/media/doc_figures/water_module.png">
-
-*Figure 5: Schematic of the water module utilized to generate water pressure.*
-<br>
+Figure 5: Schematic of the water module utilized to generate water pressure.
 </p>
 
 - **Manual Piston Pump**: A manual piston pump is used to pump water into the closed system.
@@ -190,9 +184,7 @@ Construction Steps:
 
 <p align="center"> 
 <img src="/media/doc_figures/3d_cutting_module.png">
-
-*Figure 6: 3D- representation of the cutting module: a) Complete Assembly, b) Explosion view of the handle and joints, c) Explosion view of the inner tube with blades attached, d) Explosion view of the outer tube with the bottle adapter attached.*
-<br>
+Figure 6: 3D- representation of the cutting module: a) Complete Assembly, b) Explosion view of the handle and joints, c) Explosion view of the inner tube with blades attached, d) Explosion view of the outer tube with the bottle adapter attached.
 </p>
 
 </details>
@@ -231,9 +223,7 @@ This step may need to be repeated a couple of times in case of heavily soiled bo
 
 <p align="center"> 
 <img src="/media/doc_figures/cleaning_process.jpg">
-
-*Figure 7: Cleaning Process of HDPE bottles. The vertical pins act as temporary storage of cleaned bottles.*
-<br>
+Figure 7: Cleaning Process of HDPE bottles. The vertical pins act as temporary storage of cleaned bottles.
 </p>
 
 ### **Cutting:**
@@ -246,9 +236,7 @@ Inspect the cut and cleaned bottle for any missed contaminants, and if necessary
 
 <p align="center"> 
 <img src="/media/doc_figures/3d_loading_process.png">
-
-*Figure 8: 3D-representation of the loading process. Bottles are stacked on the pole and slide into the rail.*
-<br>
+Figure 8: 3D-representation of the loading process. Bottles are stacked on the pole and slide into the rail.
 </p>
 
 </details>

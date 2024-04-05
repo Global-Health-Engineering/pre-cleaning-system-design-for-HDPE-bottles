@@ -22,7 +22,7 @@ Supervisors:
 
 <h1>Table of Contents</h1>
 
-1. [Introduction](#1-introduction_)
+1. [Introduction](#1-introduction)
 2. [Prototype Overview](#2-prototype-overview)
 3. [Part List](#3-part-list)
 4. [User Manual](#4-user-manual)

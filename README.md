@@ -5,17 +5,15 @@
 
 <!-- badges: end -->
 
-<p align="center"> 
-<img src="/media/doc_figures/GHE_logo.png" width=500>
-<br>
+<p align="middle"> 
 <img src="/media/doc_figures/ETH_logo.png" width=400>
+<br>
+<img src="/media/doc_figures/GHE_logo.png" width=500>
 </p>
 
 <h1> Technical Documentation: Design of an HDPE bottle collection and pre-cleaning system for recycling in Blantyre, Malawi </h1>
 
-<p align="center"> 
 <b>Author: Timo Stutz</b>
-</p>
 
 Supervisors: 
 - [Prof. Dr. Elizabeth Tilley](https://orcid.org/0000-0002-2095-9724)
@@ -45,6 +43,10 @@ The underlying master’s thesis is openly accessible on the ETH Zurich research
 
 # 2. Prototype Overview
 
+<details>
+
+<summary>Expand for prototype overview</summary>
+
 The pre-cleaning station was mainly developed to address cleanliness requirements of collected HDPE bottles before they undergo recycling. This prototype is segmented into distinct modules, each designed to fulfill a specific function in the pre-cleaning process. Figure 1 shows the CAD drawing of the complete prototype and its different modules. In Figure 2, the complete assembly of the physical prototype is depicted. Finally, Figure 3 shows a focussed view on the inflation and cleaning interface. Below is a summary of each module and its function within the prototype:
 
 1. **Inflation Module:** This module is responsible for restoring crushed or deformed bottles to their original shape, making them easier to clean and process. By applying controlled pressure, the inflation module ensures that bottles regain a uniform shape for efficient cleaning.
@@ -71,11 +73,13 @@ The pre-cleaning station was mainly developed to address cleanliness requirement
 <br><br>
 </p>
 
+</details>
+
+#  3. Part List
+
 <details>
 
 <summary>Expand for part list</summary>
-
-#  3. Part List
 
 *Table 1: Part list of the pre-cleaning station in CHF. Where necessary, local prices in MWK were converted into CHF according to the exchange rate at the time of the project.*
 
@@ -129,11 +133,11 @@ The pre-cleaning station was mainly developed to address cleanliness requirement
 
 # 4. User Manual
 
+## 4.1 Prototype Construction
+
 <details>
 
 <summary>Expand for user manual on prototype construction</summary>
-
-## 4.1 Prototype Construction
 
 ### **Frame / Workbench**
 
@@ -193,11 +197,11 @@ Construction Steps:
 
 </details>
 
+## 4.2 Prototype Operation
+
 <details>
 
 <summary>Expand for user manual on prototype operation</summary>
-
-## 4.2 Prototype Operation
 
 This manual leads users through the process of operating the bottle pre-cleaning station. The setup can be used to transform crushed and dirty HDPE bottles into clean, cut, and ready-for-recycling materials.
 
@@ -249,11 +253,11 @@ Inspect the cut and cleaned bottle for any missed contaminants, and if necessary
 
 </details>
 
+## 4.3 Maintenance
+
 <details>
 
 <summary>Expand for user manual on maintenance</summary>
-
-## 4.3 Maintenance
 
 To maintain the efficiency and longevity of the bottle pre-cleaning station, adhere to the following maintenance routines. Regular maintenance also contributes to a safer working environment for all operators.
 

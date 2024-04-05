@@ -13,16 +13,24 @@
 
 <h1> Technical Documentation: Design of an HDPE bottle collection and pre-cleaning system for recycling in Blantyre, Malawi </h1>
 
-<b>Author: Timo Stutz</b>
-
-Supervisors: 
-- [Prof. Dr. Elizabeth Tilley](https://orcid.org/0000-0002-2095-9724)
-- [Dr. Jakub Tkaczuk](https://orcid.org/0000-0001-7997-9423)
-- [Lin Boynton](https://orcid.org/0000-0002-9944-3834)
-
-This repository was created by: 
-- [Nicolas Seemann-Ricard](https://orcid.org/0000-0002-0945-7475)
-- [Jakub Tkaczuk](https://orcid.org/0000-0001-7997-9423)
+<b>Contributors:</b>
+- Timo Stutz *author*
+- Elizabeth Tilley
+<a href="https://orcid.org/0000-0002-2095-9724">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-2095-9724
+</a> *supervisor*
+- Jakub Tkaczuk
+<a href="https://orcid.org/0000-0001-7997-9423">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0001-7997-9423
+</a> *supervisor, developer, maintainer*
+- Lin Boynton
+<a href="https://orcid.org/0000-0002-9944-3834">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-9944-3834
+</a> *supervisor*
+- Nicolas Seemann-Ricard
+<a href="https://orcid.org/0000-0002-0945-7475">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-0945-7475
+</a> *developer*
 
 <h1>Table of Contents</h1>
 
@@ -42,10 +50,6 @@ This technical documentation presents an overview of a prototype for an HDPE bot
 This repository compliments the openly-accessible master’s thesis, available the [ETH research collection](https://doi.org/10.3929/ethz-b-000658745).
 
 # 2. Prototype Overview
-
-<details>
-
-<summary>Expand for prototype overview</summary>
 
 
 The pre-cleaning station was mainly developed to address cleanliness requirements of collected HDPE bottles before they undergo recycling. This prototype is segmented into distinct modules, each designed to fulfill a specific function in the pre-cleaning process. Figure 1 shows the CAD drawing of the complete prototype and its different modules. In Figure 2, the complete assembly of the physical prototype is depicted. Finally, Figure 3 shows a focussed view on the inflation and cleaning interface. Below is a summary of each module and its function within the prototype:
@@ -72,14 +76,7 @@ Figure 3: Front view of the inflation and cleaning modules as installed.
 <br><br>
 </p>
 
-</details>
-
 #  3. Part List
-
-<details>
-
-<summary>Expand for part list</summary>
-
 
 <p align="center">
 Table 1: Part list of the pre-cleaning station in CHF. Where necessary, local prices in MWK were converted into CHF according to the exchange rate at the time of the project.
@@ -131,16 +128,9 @@ Table 1: Part list of the pre-cleaning station in CHF. Where necessary, local pr
 | **Total Costs Prototype (CHF):** |         |                         |                                     |          |                                   |        **599**         |
 <br>
 
-</details>
-
 # 4. User Manual
 
 ## 4.1 Prototype Construction
-
-<details>
-
-<summary>Expand for user manual on prototype construction</summary>
-
 
 ### **Frame / Workbench**
 
@@ -192,14 +182,7 @@ Construction Steps:
 Figure 6: 3D- representation of the cutting module: a) Complete Assembly, b) Explosion view of the handle and joints, c) Explosion view of the inner tube with blades attached, d) Explosion view of the outer tube with the bottle adapter attached.
 </p>
 
-</details>
-
 ## 4.2 Prototype Operation
-
-<details>
-
-<summary>Expand for user manual on prototype operation</summary>
-
 
 This manual leads users through the process of operating the bottle pre-cleaning station. The setup can be used to transform crushed and dirty HDPE bottles into clean, cut, and ready-for-recycling materials.
 
@@ -245,14 +228,7 @@ Inspect the cut and cleaned bottle for any missed contaminants, and if necessary
 Figure 8: 3D-representation of the loading process. Bottles are stacked on the pole and slide into the rail.
 </p>
 
-</details>
-
 ## 4.3 Maintenance
-
-<details>
-
-<summary>Expand for user manual on maintenance</summary>
-
 
 To maintain the efficiency and longevity of the bottle pre-cleaning station, adhere to the following maintenance routines. Regular maintenance also contributes to a safer working environment for all operators.
 
@@ -260,18 +236,11 @@ To maintain the efficiency and longevity of the bottle pre-cleaning station, adh
 - **Water Module Maintenance:** The filters in the water module should be cleaned and checked for clogs regularly to maintain optimal water flow and pressure. Inspect the pump and valves for signs of wear or leakage and replace parts as necessary.
 - **Cutting Tool Care:** Regularly inspect the cutting blades for sharpness and signs of wear. Dull blades can result in inefficient cutting and restricted functionality. Resharpen or replace blades when a significant decrease in performance is noticed.
 - **Pressure Tank Inspection:** Periodically inspect the pressure tank for any signs of damage, corrosion, or wear. Check the seals and valves to ensure they are functioning correctly and not leaking. It's crucial to maintain the tank properly to prevent potential safety hazards due to overpressure or material failure.
-</details>
 
 ## 4.4 Safety Precautions
-
-<details>
-
- <summary>Expand for user manual on safety precautions </summary>
  
 Operating the HDPE Bottle Pre-Cleaning Station involves various components that require careful handling to ensure safety. Pay special attention to the following:
 - **Protective Gear:** Always wear appropriate protective gear, including gloves, eyewear, and closed-toe shoes, to safeguard against potential hazards such as splashes, sharp edges, or falling tools.
 - **Handling Sharp Edges:** The cutting tool incorporates sharp blades that pose a risk of cuts or injuries. Handle the cutting module with utmost care, especially when inserting or removing bottles from the adapter. Ensure the blades are fully retracted when performing maintenance or adjustments.
 - **Monitoring Water Pressure:** The pressure tank is a critical component of the cleaning module. Regularly check the tank's integrity and the pressure levels during operation using the barometer and a visual check on deformed parts or leakage. Ensure that the pressure stays within the recommended safety limits to prevent any risk of tank rupture or leaks. For this reason do not operate the pre-cleaning station without a safety valve.
 - **Secure Operation Area:** Keep the operational area around the pre-cleaning station clear of clutter, water, and cleaning agents to prevent slips and falls. Ensure that all pipes and hoses are properly managed to avoid tripping hazards.
-
-</details>

@@ -20,6 +20,10 @@ Supervisors:
 - [Dr. Jakub Tkaczuk](https://orcid.org/0000-0001-7997-9423)
 - [Lin Boynton](https://orcid.org/0000-0002-9944-3834)
 
+This repository was created by: 
+- [Nicolas Seemann-Ricard](https://orcid.org/0000-0002-0945-7475)
+- [Jakub Tkaczuk](https://orcid.org/0000-0001-7997-9423)
+
 <h1>Table of Contents</h1>
 
 1. [Introduction](#1-introduction)

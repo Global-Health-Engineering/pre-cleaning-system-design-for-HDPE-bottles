@@ -14,7 +14,7 @@
 
 <h1>Table of Contents </h1>
 
-1. [Introduction](#introduction)
+1. [Introduction](#1.-introduction)
 2. Prototype Overview
 3. Part List
 4. User Manual

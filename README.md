@@ -9,7 +9,7 @@
 
 <h1> Technical Documentation: Design of an HDPE bottle collection and pre-cleaning system for recycling in Blantyre, Malawi </h1>
 
-<h2>Author: Timo Stutz <br><br> Supervisors: Prof. Dr. Elizabeth Tilley, Dr. Jakub Tkaczuk, Lin Boynton <br><br></h2>
+<h2>Author: Timo Stutz <br><br> Supervisors: [Prof. Dr. Elizabeth Tilley](https://orcid.org/0000-0002-2095-9724), [Dr. Jakub Tkaczuk](https://orcid.org/0000-0001-7997-9423), [Lin Boynton](https://orcid.org/0000-0002-9944-3834) <br><br></h2>
 
 
 <h1>Table of Contents </h1>

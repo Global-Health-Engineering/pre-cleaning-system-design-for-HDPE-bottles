@@ -7,14 +7,14 @@
 </p>
 
 
-<h1>  Technical Documentation: Design of an HDPE bottle collection and pre-cleaning system for recycling in Blantyre, Malawi </h1>
+<h1> Technical Documentation: Design of an HDPE bottle collection and pre-cleaning system for recycling in Blantyre, Malawi </h1>
 
 <h2>Author: Timo Stutz <br><br> Supervisors: Prof. Dr. Elizabeth Tilley, Dr. Jakub Tkaczuk, Lin Boynton <br><br></h2>
 
 
 <h1>Table of Contents </h1>
 
-1. Introduction
+1. [Introduction](Introduction)
 2. Prototype Overview
 3. Part List
 4. User Manual

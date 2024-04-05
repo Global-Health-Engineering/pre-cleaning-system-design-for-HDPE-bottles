@@ -1,8 +1,8 @@
 
 
 <center> 
-<img src="/figures/GHE_logo.png" width = >
-<img src="/figures/ETH_logo.png">
+<img src="/figures/GHE_logo.png" max-width=400 >
+<img src="/figures/ETH_logo.png" max-width=300>
 </center>
 
 

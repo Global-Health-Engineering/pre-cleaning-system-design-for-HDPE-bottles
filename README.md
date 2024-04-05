@@ -39,7 +39,7 @@ This repository was created by:
 
 This technical documentation presents an overview of a prototype for an HDPE bottle pre-cleaning station, developed as a sustainable solution to enhance recycling processes in low-resource settings. The prototype was developed within the master’s thesis of Timo Stutz, contributing to a PhD project conducted by Lin Boynton at the Chair of Global Health Engineering at ETH Zurich. The PhD research aims to design, implement, and evaluate a closed-loop plastic bottle recycling scheme in low-income countries to efficiently, and effectively manage the flow of waste bottles from consumers into new drinking bottles. The prototype addresses the challenges of recycling contaminated HDPE bottles by introducing an efficient, scalable, and locally adaptable pre-cleaning system aiming to reduce the efforts and costs of subsequent recycling processes. Designed and tested through a collaborative research project, this documentation summarizes the prototype's design, constructional and operational procedures, maintenance of the device, and safety recommendations.
 
-This repository compliments the openly-accessible master’s thesis, available the [ETH Zurich research collection](https://doi.org/10.3929/ethz-b-000658745).
+This repository compliments the openly-accessible master’s thesis, available the [ETH research collection](https://doi.org/10.3929/ethz-b-000658745).
 
 # 2. Prototype Overview
 
@@ -85,50 +85,50 @@ Figure 3: Front view of the inflation and cleaning modules as installed.
 Table 1: Part list of the pre-cleaning station in CHF. Where necessary, local prices in MWK were converted into CHF according to the exchange rate at the time of the project.
 </p>
 
-| **Module**                       | **No.** |        **Item**         | **Specs**                                                         | **Qty.** | **Source**                        | **Total Price (CHF)**  |
-| -------------------------------- | :-----: | :---------------------: | ----------------------------------------------------------------- | -------- | --------------------------------- | :--------------------: |
-| Workbench                        |    1    |       Square Tube       | L $\times$ W $\times$ H:<br>20 m $\times$ 25 mm $\times$ 25 mm    | 1        | *incl. in 41                      |                        |
-| Inflation                        |    2    |       Metal Sheet       | L $\times$ W $\times$ H:<br>10 cm $\times$ 10 cm $\times$ 3 mm    | 1        | *incl. in 41                      |                        |
-| Inflation                        |    3    |    Metal Round Tube     | D $\times$ L:<br>35 mm x 15 cm                                    | 1        | *incl. in 41                      |                        |
-| Inflation                        |    4    |          Paint          |                                                                   | 1        | Agri-Quip Ltd.                    |           6            |
-| Water                            |    5    |      Double Nipple      | 2 $\times$ External Thread (ET) G 1 1/2 ''                        | 1        | D.J. Hardware Ltd.                |           2            |
-| Water                            |    6    |     Reducing Sleeve     | IT G 1 1/2'' to IT G 3/4''                                        | 1        | D.J. Hardware Ltd.                |           3            |
-| Water                            |    7    |         T-piece         | 3 $\times$ IT G 3/4''                                             | 4        | Van General Dealers               |           2            |
-| Water                            |    8    |       Ball valve        | 2 $\times$ IT G 3/4''                                             | 1        | Van General Dealers               |           10           |
-| Water                            |    9    |       Hose nipple       | ET G 3/4'' to 13 mm                                               | 15       | Phalombe Hardware                 |           15           |
-| Water                            |   10    |       Check valve       | 2 $\times$ 13 mm                                                  | 1        | Temu                              |           3            |
-| Water                            |   11    |        Manometer        | 0-3 bar, IT G 1/4''                                               | 1        | Temu                              |           5            |
-| Water                            |   12    |          Hose           | 2 $\times$ IT G 3/4''                                             | 2        | *incl. in                         |                        |
-| Water                            |   13    |         Bottle          | 20 l                                                              | 1        | Sana Cash & Carry                 |           6            |
-| Water                            |   14    |       Water pump        |                                                                   | 1        | Ricardo                           |           12           |
-| Water                            |   15    |       Rubber Hose       | D $\times$ L: 13 mm $\times$ 5 m                                  | 1        | Blantyre Market                   |           7            |
-| Water                            |   16    |       Hose Clamps       | 13 mm - 16 mm                                                     | 15       | Build Africa Ltd.                 |           17           |
-| Water                            |   17    |      Safety Valve       | 2.5 bar                                                           | 1        | Bauhaus                           |           14           |
-| Water                            |   18    |       Drum Stand        | 60 l                                                              | 1        | Ndirande Market                   |           14           |
-| Water                            |   19    |      Metal Bucket       | 8 l                                                               | 1        | Ndirande Market                   |           4            |
-| Water                            |   20    |      Bottle Stand       |                                                                   | 1        | Steel World & Hardware            |           9            |
-| Water                            |   21    |       Drum Stand        |                                                                   | 1        | Steel World & Hardware            |           13           |
-| Water                            |   22    |       Drum Faucet       |                                                                   | 1        | L.R. Hardware                     |           2            |
-| Cleaning                         |   23    |         Rinser          |                                                                   | 1        | Temu                              |           8            |
-| Cleaning                         |   24    |          Sink           | Stainless Steel                                                   | 1        | Ndirande Market                   |           28           |
-| Cleaning                         |   25    |         Faucet          |                                                                   | 1        | Phalombe      Hardware            |           13           |
-| Cleaning                         |   26    |         Brushes         |                                                                   | 1        | Temu                              |           5            |
-| Cleaning                         |   27    |       Metal Sheet       | Thickness 2 - 3 mm                                                | 1        | *incl. in 41                      |                        |
-| Cleaning                         |   28    |    Metal Square Tube    | 1 cm $\times$ 1 cm                                                | 1        | *incl. in 41                      |                        |
-| Stacking                         |   29    |       Square Tube       | W $\times$ H $\times$ L:<br>90 mm $\times$ 90 mm $\times$ 1 m     | 1        | *incl. in 41                      |                        |
-| Stacking                         |   30    |       Flat Steel        | W $\times$ H $\times$ L:<br>20 mm $\times$ 4 mm $\times$ 1500 mm  | 1        | Steel World Ltd.                  |           13           |
-| Stacking                         |   31    |    Rectangular Tube     | W $\times$ H $\times$ L:<br>25 mm $\times$ 12 mm $\times$ 300 mm  | 1        | *incl. in 41                      |                        |
-| Stacking                         |   32    |       Round Tube        | OD 35 mm, L 120 mm                                                | 1        | *incl. in 41                      |                        |
-| Stacking                         |   33    |       Metal Sheet       | W $\times$ H $\times$ L:<br>500 mm $\times$ 4 mm $\times$ 300 mm  | 1        | *incl. in 41                      |                        |
-| Stacking                         |   34    | Round Steel (Full Core) | D $\times$ L:<br>10 mm $\times$ 3 m                               | 1        | *incl. in 41                      |                        |
-| Stacking                         |   35    |       Round Tube        | OD 35 mm<br>L 1.5 m                                               | 1        | *incl. in 40                      |                        |
-| Stacking                         |   36    |       Square Tube       | For Base                                                          | 1        | *incl. in 40                      |                        |
-| Stacking                         |   37    |       Nuts/Bolts        |                                                                   | 1        | Build Africa                      |           4            |
-| Salary Costs                     |   38    |      Bottle Stand       | Cutting, Welding, etc.                                            | 1        | Barlows          Engineering      |           11           |
-| Salary Costs                     |   39    |       Drum Stand        | Cutting, Welding, etc.                                            | 1        | Barlows         Engineering       |           27           |
-| Salary Costs                     |   40    |       Pole Stand        | Cutting, Welding, etc.                                            | 1        | Barlows         Engineering       |           11           |
-| Salary Costs                     |   41    |  Workbench & Painting   | Cutting, Welding, etc.                                            | 1        | Real Steel        Industries Ltd. |          337           |
-| **Total Costs Prototype (CHF):** |         |                         |                                                                   |          |                                   |        **599**         |
+| **Module**                       | **No.** |        **Item**         | **Specs**                           | **Qty.** | **Source**                        | **Total Price (CHF)**  |
+| -------------------------------- | :-----: | :---------------------: | ----------------------------------- | -------- | --------------------------------- | :--------------------: |
+| Workbench                        |    1    |       Square Tube       | L x W x H: 20 m x 25 mm x 25 mm     | 1        | *incl. in 41                      |                        |
+| Inflation                        |    2    |       Metal Sheet       | L x W x H: 10 cm x 10 cm x 3 mm     | 1        | *incl. in 41                      |                        |
+| Inflation                        |    3    |    Metal Round Tube     | D x L:35 mm x 15 cm                 | 1        | *incl. in 41                      |                        |
+| Inflation                        |    4    |          Paint          |                                     | 1        | Agri-Quip Ltd.                    |           6            |
+| Water                            |    5    |      Double Nipple      | 2 x External Thread (ET) G 1 1/2 '' | 1        | D.J. Hardware Ltd.                |           2            |
+| Water                            |    6    |     Reducing Sleeve     | IT G 1 1/2'' to IT G 3/4''          | 1        | D.J. Hardware Ltd.                |           3            |
+| Water                            |    7    |         T-piece         | 3 x IT G 3/4''                      | 4        | Van General Dealers               |           2            |
+| Water                            |    8    |       Ball valve        | 2 x IT G 3/4''                      | 1        | Van General Dealers               |           10           |
+| Water                            |    9    |       Hose nipple       | ET G 3/4'' to 13 mm                 | 15       | Phalombe Hardware                 |           15           |
+| Water                            |   10    |       Check valve       | 2 x 13 mm                           | 1        | Temu                              |           3            |
+| Water                            |   11    |        Manometer        | 0-3 bar, IT G 1/4''                 | 1        | Temu                              |           5            |
+| Water                            |   12    |          Hose           | 2 x IT G 3/4''                      | 2        | *incl. in                         |                        |
+| Water                            |   13    |         Bottle          | 20 l                                | 1        | Sana Cash & Carry                 |           6            |
+| Water                            |   14    |       Water pump        |                                     | 1        | Ricardo                           |           12           |
+| Water                            |   15    |       Rubber Hose       | D x L: 13 mm x 5 m                  | 1        | Blantyre Market                   |           7            |
+| Water                            |   16    |       Hose Clamps       | 13 mm - 16 mm                       | 15       | Build Africa Ltd.                 |           17           |
+| Water                            |   17    |      Safety Valve       | 2.5 bar                             | 1        | Bauhaus                           |           14           |
+| Water                            |   18    |       Drum Stand        | 60 l                                | 1        | Ndirande Market                   |           14           |
+| Water                            |   19    |      Metal Bucket       | 8 l                                 | 1        | Ndirande Market                   |           4            |
+| Water                            |   20    |      Bottle Stand       |                                     | 1        | Steel World & Hardware            |           9            |
+| Water                            |   21    |       Drum Stand        |                                     | 1        | Steel World & Hardware            |           13           |
+| Water                            |   22    |       Drum Faucet       |                                     | 1        | L.R. Hardware                     |           2            |
+| Cleaning                         |   23    |         Rinser          |                                     | 1        | Temu                              |           8            |
+| Cleaning                         |   24    |          Sink           | Stainless Steel                     | 1        | Ndirande Market                   |           28           |
+| Cleaning                         |   25    |         Faucet          |                                     | 1        | Phalombe      Hardware            |           13           |
+| Cleaning                         |   26    |         Brushes         |                                     | 1        | Temu                              |           5            |
+| Cleaning                         |   27    |       Metal Sheet       | Thickness 2 - 3 mm                  | 1        | *incl. in 41                      |                        |
+| Cleaning                         |   28    |    Metal Square Tube    | 1 cm x 1 cm                         | 1        | *incl. in 41                      |                        |
+| Stacking                         |   29    |       Square Tube       | W x H x L: 90 mm x 90 mm x 1 m      | 1        | *incl. in 41                      |                        |
+| Stacking                         |   30    |       Flat Steel        | W x H x L: 20 mm x 4 mm x 1500 mm   | 1        | Steel World Ltd.                  |           13           |
+| Stacking                         |   31    |    Rectangular Tube     | W x H x L: 25 mm x 12 mm x 300 mm   | 1        | *incl. in 41                      |                        |
+| Stacking                         |   32    |       Round Tube        | OD 35 mm, L 120 mm                  | 1        | *incl. in 41                      |                        |
+| Stacking                         |   33    |       Metal Sheet       | W x H x L: 500 mm x 4 mm x 300 mm   | 1        | *incl. in 41                      |                        |
+| Stacking                         |   34    | Round Steel (Full Core) | D x L: 10 mm x 3 m                  | 1        | *incl. in 41                      |                        |
+| Stacking                         |   35    |       Round Tube        | OD 35 mm, L 1.5 m                   | 1        | *incl. in 40                      |                        |
+| Stacking                         |   36    |       Square Tube       | For Base                            | 1        | *incl. in 40                      |                        |
+| Stacking                         |   37    |       Nuts/Bolts        |                                     | 1        | Build Africa                      |           4            |
+| Salary Costs                     |   38    |      Bottle Stand       | Cutting, Welding, etc.              | 1        | Barlows          Engineering      |           11           |
+| Salary Costs                     |   39    |       Drum Stand        | Cutting, Welding, etc.              | 1        | Barlows         Engineering       |           27           |
+| Salary Costs                     |   40    |       Pole Stand        | Cutting, Welding, etc.              | 1        | Barlows         Engineering       |           11           |
+| Salary Costs                     |   41    |  Workbench & Painting   | Cutting, Welding, etc.              | 1        | Real Steel        Industries Ltd. |          337           |
+| **Total Costs Prototype (CHF):** |         |                         |                                     |          |                                   |        **599**         |
 <br>
 
 </details>

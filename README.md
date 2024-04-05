@@ -1,23 +1,18 @@
 
 
-<center> 
-<img src="/figures/GHE_logo.png" max-width=400 >
-<img src="/figures/ETH_logo.png" max-width=300>
-</center>
+<p align="center"> 
+<img src="/figures/GHE_logo.png" width=500 >
+<br>
+<img src="/figures/ETH_logo.png" width=400>
+</p>
 
 
-# Design of an HDPE bottle collection and pre-cleaning system for recycling in Blantyre, Malawi
+<h1>  Technical Documentation: Design of an HDPE bottle collection and pre-cleaning system for recycling in Blantyre, Malawi </h1>
 
-## Technical Documentation
-
-
-|Author|Timo Stutz|
-|---|---|
-|**Supervisors**|**Prof. Dr. Elizabeth Tilley<br><br>Dr. Jakub Tkaczuk<br><br>Lin Boynton**|
+<h2>Author: Timo Stutz <br><br> Supervisors: Prof. Dr. Elizabeth Tilley, Dr. Jakub Tkaczuk, Lin Boynton <br><br></h2>
 
 
-
-Table of Contents
+<h1>Table of Contents </h1>
 
 1. Introduction
 2. Prototype Overview
@@ -46,18 +41,19 @@ The pre-cleaning station was mainly developed to address cleanliness requirement
 
 4. **Stacking Module:** After the bottles are cleaned, the stacking module allows to organize them into manageable stacks for easy transportation and further processing. This is realized with help of a cutting tool and a metal pole which is used as a transport unit for cut bottles.
 
-![[complete_assembly.png]]
+<img src="figures/complete_assembly.png">
 Figure 1: Complete assembly of the pre-cleaning station
-
-![[complete_assembly_pic.jpg]]
+<br><br><br><br>
+<img src="figures/complete_assembly_pic.jpg">
 Figure 2: Complete assembly of the prototype. All components are
 included.
-
-![[front_pic.jpg]]
+<br><br><br><br>
+<img src="figures/front_pic.jpg">
 Figure 3: Front view of the inflation and cleaning modules as installed.
+<br><br><br><br>
+
 
 #  3. Part List
-
 
 | **Module**                       | **No.** |        **Item**         | **Specs**                          | **Qty.** | **Source**                        | ** Total Price (CHF)** |
 | -------------------------------- | :-----: | :---------------------: | ---------------------------------- | -------- | --------------------------------- | :--------------------: |
@@ -103,8 +99,9 @@ Figure 3: Front view of the inflation and cleaning modules as installed.
 | Salary Costs                     |   40    |       Pole Stand        | Cutting, Welding, etc.             | 1        | Barlows         Engineering       |           11           |
 | Salary Costs                     |   41    |  Workbench & Painting   | Cutting, Welding, etc.             | 1        | Real Steel        Industries Ltd. |          337           |
 | **Total Costs Prototype (CHF):** |         |                         |                                    |          |                                   |        **599**         |
-Table 1: Part list of the pre-cleaning station in CHF. Where necessary, local prices in MWK were converted into CHF according to the exchange rate at the time of the project.
 
+Table 1: Part list of the pre-cleaning station in CHF. Where necessary, local prices in MWK were converted into CHF according to the exchange rate at the time of the project.
+<br><br>
 # 4. User Manual
 
 ## 4.1 Prototype Construction
@@ -117,8 +114,9 @@ The construction of the structural frame of the workbench is a crucial step in a
 
 The realization of the inflation module is kept as simple as possible and is presented in Figure 4a). The module consists of a round tube welded to a steel plate. The diameter of the tube is approximately 1cm smaller than the bottle opening to ensure quick and reliable mounting of the bottle. The steel plate is welded to or screwed onto the surface on the workbench below the module.
 
-![[3d_inflation_cleaning.png]]
+<img src="/figures/3d_inflation_cleaning.png">
 Figure 4: 3D-representation of modules: a) Inflation Module, b) Cleaning Module.
+<br><br>
 
 ### **Cleaning Module**
 
@@ -128,8 +126,9 @@ The cleaning interface depicted in Figure 4b) consists of four primary component
 
 Figure 5 illustrates the components of the water module. Initially, the placement of the pump and pressure tank must be determined. Following this, a rubber hose is cut to the required length to link all components. Typically, these components are equipped with threaded ends, allowing for the attachment of an threaded hose nipple. The hose is then attached to the components and fastened securely with hose clamps. Adding the clamps is crucial since the system operates under pressure, necessitating a tight and secure connection to prevent leaks and maintain system integrity. The schematic in Figure 5 also displays the order in which the components are installed. In the following a quick functional summary of the different parts is given:
 
-![[water_module.png]]
+<img src="/figures/water_module.png">
 Figure 5: Schematic of the water module utilized to generate water pressure.
+<br><br>
 
 - **Manual Piston Pump**: A manual piston pump is used to pump water into the closed system.
 - **Dirt Filter**: The water first passes through a dirt filter to remove sand, dirt, and other particles. This filtering process is essential to protect sensitive valves downstream.
@@ -150,8 +149,10 @@ Construction Steps:
 4. **Install the Bottle Adapter:** The bottle adapter, crucial for positioning the bottle during the cutting process, attaches to the outer tube with help of 4 screws. The adapter's walls assist in centering the bottle, while a metal tube with vertical cuts welded onto the adapter offers counterpressure, ensuring a clean cut and protecting the user from the blades.
 5. **Add the cutting tool to the workbench:** The cutting tool can be horizontally welded or screwed to the workbench or vertically attached to a wall.
 
-![[3d_cutting_module.png]]
+<img src="/figures/3d_cutting_module.png">
 Figure 6: 3D- representation of the cutting module: a) Complete Assembly, b) Explosion view of the handle and joints, c) Explosion view of the inner tube with blades attached, d) Explosion view of the outer tube with the bottle adapter attached
+<br><br>
+
 ## 4.2 Prototype Operation
 
 This manual leads users through the process of operating the bottle pre-cleaning station. The setup can be used to transform crushed and dirty HDPE bottles into clean, cut, and ready-for-recycling materials.
@@ -180,8 +181,9 @@ Quickly rinse the bottle under the tap to remove loose dirt and debris. Press th
 
 This step may need to be repeated a couple of times in case of heavily soiled bottles. Once the bottles are clean, place the cleaned bottles onto the vertical pins to allow excess water to drip out before cutting. The rinsing step as well as the temporary bottle storage are visualized in Figure 7.
 
-![[cleaning_process.jpg]]
+<img src="/figures/cleaning_process.jpg">
 Figure 7: Cleaning Process of HDPE bottles. The vertical pins act as temporary storage of cleaned bottles.
+<br><br>
 
 ### **Cutting:**
 
@@ -191,8 +193,9 @@ Once the bottle is clean and dry, place it into the stacking module. Place the b
 
 Inspect the cut and cleaned bottle for any missed contaminants, and if necessary, remove the remains. Place the bottles through the opening onto the transport unit (pole) as represented in Figure 8.
 
-![[3d_loading_process.png]]
+<img src="/figures/3d_loading_process.png">
 Figure 8: 3D-representation of the loading process. Bottles are stacked on the pole and slide into the rail
+<br><br>
 
 ## 4.3 Maintenance
 

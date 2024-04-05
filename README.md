@@ -257,8 +257,13 @@ To maintain the efficiency and longevity of the bottle pre-cleaning station, adh
 - **Cutting Tool Care:** Regularly inspect the cutting blades for sharpness and signs of wear. Dull blades can result in inefficient cutting and restricted functionality. Resharpen or replace blades when a significant decrease in performance is noticed.
 - **Pressure Tank Inspection:** Periodically inspect the pressure tank for any signs of damage, corrosion, or wear. Check the seals and valves to ensure they are functioning correctly and not leaking. It's crucial to maintain the tank properly to prevent potential safety hazards due to overpressure or material failure.
 </details>
+
 ## 4.4 Safety Precautions
+
 <details>
+
+ <summary>Expand for user manual on safety precautions </summary>
+ 
 Operating the HDPE Bottle Pre-Cleaning Station involves various components that require careful handling to ensure safety. Pay special attention to the following:
 - **Protective Gear:** Always wear appropriate protective gear, including gloves, eyewear, and closed-toe shoes, to safeguard against potential hazards such as splashes, sharp edges, or falling tools.
 - **Handling Sharp Edges:** The cutting tool incorporates sharp blades that pose a risk of cuts or injuries. Handle the cutting module with utmost care, especially when inserting or removing bottles from the adapter. Ensure the blades are fully retracted when performing maintenance or adjustments.

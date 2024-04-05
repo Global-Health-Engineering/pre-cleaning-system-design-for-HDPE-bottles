@@ -9,19 +9,27 @@
 
 <h1> Technical Documentation: Design of an HDPE bottle collection and pre-cleaning system for recycling in Blantyre, Malawi </h1>
 
-<h2>Author: Timo Stutz <br><br> Supervisors: [Prof. Dr. Elizabeth Tilley](https://orcid.org/0000-0002-2095-9724), [Dr. Jakub Tkaczuk](https://orcid.org/0000-0001-7997-9423), [Lin Boynton](https://orcid.org/0000-0002-9944-3834) <br><br></h2>
+<b>Author: Timo Stutz</b>
 
 
-<h1>Table of Contents </h1>
+Supervisors: 
+- [Prof. Dr. Elizabeth Tilley](https://orcid.org/0000-0002-2095-9724)
+- [Dr. Jakub Tkaczuk](https://orcid.org/0000-0001-7997-9423)
+- [Lin Boynton](https://orcid.org/0000-0002-9944-3834)
 
-1. Introduction
-2. Prototype Overview
-3. Part List
-4. User Manual
-	1. Prototype Construction
-	2. Prototype Operation
-	3. Maintenance
-	4. Safety Precautions
+<br><br>
+
+
+<h1>Table of Contents</h1>
+
+1. [Introduction](#1-introduction_)
+2. [Prototype Overview](#2-prototype-overview)
+3. [Part List](#3-part-list)
+4. [User Manual](#4-user-manual)
+	1. [Prototype Construction](#41-prototype-construction)
+	2. [Prototype Operation](#42-prototype-operation)
+	3. [Maintenance](#43-maintenance)
+	4. [Safety Precautions](#44-safety-precautions)
 
 # 1. Introduction
 

@@ -1,7 +1,7 @@
 
 
 <center> 
-<img src="/figures/GHE_logo.png">
+<img src="/figures/GHE_logo.png" width = >
 <img src="/figures/ETH_logo.png">
 </center>
 

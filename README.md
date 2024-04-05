@@ -1,9 +1,9 @@
 
 
 <p align="center"> 
-<img src="/figures/GHE_logo.png" width=500 >
+<img src="/media/doc_figures/GHE_logo.png" width=500 >
 <br>
-<img src="/figures/ETH_logo.png" width=400>
+<img src="/media/doc_figures/ETH_logo.png" width=400>
 </p>
 
 
@@ -41,14 +41,14 @@ The pre-cleaning station was mainly developed to address cleanliness requirement
 
 4. **Stacking Module:** After the bottles are cleaned, the stacking module allows to organize them into manageable stacks for easy transportation and further processing. This is realized with help of a cutting tool and a metal pole which is used as a transport unit for cut bottles.
 
-<img src="figures/complete_assembly.png">
+<img src="/media/doc_figures/complete_assembly.png">
 Figure 1: Complete assembly of the pre-cleaning station
 <br><br><br><br>
-<img src="figures/complete_assembly_pic.jpg">
+<img src="/media/doc_figures/complete_assembly_pic.jpg">
 Figure 2: Complete assembly of the prototype. All components are
 included.
 <br><br><br><br>
-<img src="figures/front_pic.jpg">
+<img src="/media/doc_figures/front_pic.jpg">
 Figure 3: Front view of the inflation and cleaning modules as installed.
 <br><br><br><br>
 
@@ -114,7 +114,7 @@ The construction of the structural frame of the workbench is a crucial step in a
 
 The realization of the inflation module is kept as simple as possible and is presented in Figure 4a). The module consists of a round tube welded to a steel plate. The diameter of the tube is approximately 1cm smaller than the bottle opening to ensure quick and reliable mounting of the bottle. The steel plate is welded to or screwed onto the surface on the workbench below the module.
 
-<img src="/figures/3d_inflation_cleaning.png">
+<img src="/media/doc_figures/3d_inflation_cleaning.png">
 Figure 4: 3D-representation of modules: a) Inflation Module, b) Cleaning Module.
 <br><br>
 
@@ -126,7 +126,7 @@ The cleaning interface depicted in Figure 4b) consists of four primary component
 
 Figure 5 illustrates the components of the water module. Initially, the placement of the pump and pressure tank must be determined. Following this, a rubber hose is cut to the required length to link all components. Typically, these components are equipped with threaded ends, allowing for the attachment of an threaded hose nipple. The hose is then attached to the components and fastened securely with hose clamps. Adding the clamps is crucial since the system operates under pressure, necessitating a tight and secure connection to prevent leaks and maintain system integrity. The schematic in Figure 5 also displays the order in which the components are installed. In the following a quick functional summary of the different parts is given:
 
-<img src="/figures/water_module.png">
+<img src="/media/doc_figures/water_module.png">
 Figure 5: Schematic of the water module utilized to generate water pressure.
 <br><br>
 
@@ -149,7 +149,7 @@ Construction Steps:
 4. **Install the Bottle Adapter:** The bottle adapter, crucial for positioning the bottle during the cutting process, attaches to the outer tube with help of 4 screws. The adapter's walls assist in centering the bottle, while a metal tube with vertical cuts welded onto the adapter offers counterpressure, ensuring a clean cut and protecting the user from the blades.
 5. **Add the cutting tool to the workbench:** The cutting tool can be horizontally welded or screwed to the workbench or vertically attached to a wall.
 
-<img src="/figures/3d_cutting_module.png">
+<img src="/media/doc_figures/3d_cutting_module.png">
 Figure 6: 3D- representation of the cutting module: a) Complete Assembly, b) Explosion view of the handle and joints, c) Explosion view of the inner tube with blades attached, d) Explosion view of the outer tube with the bottle adapter attached
 <br><br>
 
@@ -181,7 +181,7 @@ Quickly rinse the bottle under the tap to remove loose dirt and debris. Press th
 
 This step may need to be repeated a couple of times in case of heavily soiled bottles. Once the bottles are clean, place the cleaned bottles onto the vertical pins to allow excess water to drip out before cutting. The rinsing step as well as the temporary bottle storage are visualized in Figure 7.
 
-<img src="/figures/cleaning_process.jpg">
+<img src="/media/doc_figures/cleaning_process.jpg">
 Figure 7: Cleaning Process of HDPE bottles. The vertical pins act as temporary storage of cleaned bottles.
 <br><br>
 
@@ -193,7 +193,7 @@ Once the bottle is clean and dry, place it into the stacking module. Place the b
 
 Inspect the cut and cleaned bottle for any missed contaminants, and if necessary, remove the remains. Place the bottles through the opening onto the transport unit (pole) as represented in Figure 8.
 
-<img src="/figures/3d_loading_process.png">
+<img src="/media/doc_figures/3d_loading_process.png">
 Figure 8: 3D-representation of the loading process. Bottles are stacked on the pole and slide into the rail
 <br><br>
 

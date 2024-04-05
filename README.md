@@ -1,7 +1,7 @@
 
 
 <p align="center"> 
-<img src="/media/doc_figures/GHE_logo.png" width=500 >
+<img src="/media/doc_figures/GHE_logo.png" width=500>
 <br>
 <img src="/media/doc_figures/ETH_logo.png" width=400>
 </p>
@@ -10,7 +10,6 @@
 <h1> Technical Documentation: Design of an HDPE bottle collection and pre-cleaning system for recycling in Blantyre, Malawi </h1>
 
 <b>Author: Timo Stutz</b>
-
 
 Supervisors: 
 - [Prof. Dr. Elizabeth Tilley](https://orcid.org/0000-0002-2095-9724)
@@ -39,7 +38,9 @@ The underlying master’s thesis is openly accessible on the ETH Zurich research
 - [https://www.research-collection.ethz.ch/handle/20.500.11850/658745](https://www.research-collection.ethz.ch/handle/20.500.11850/658745)
 - [https://doi.org/10.3929/ethz-b-000658745](https://doi.org/10.3929/ethz-b-000658745)
 
-# 2. Prototype Overview
+<details>
+
+<summary># 2. Prototype Overview</summary>
 
 The pre-cleaning station was mainly developed to address cleanliness requirements of collected HDPE bottles before they undergo recycling. This prototype is segmented into distinct modules, each designed to fulfill a specific function in the pre-cleaning process. Figure 1 shows the CAD drawing of the complete prototype and its different modules. In Figure 2, the complete assembly of the physical prototype is depicted. Finally, Figure 3 shows a focussed view on the inflation and cleaning interface. Below is a summary of each module and its function within the prototype:
 
@@ -62,6 +63,7 @@ included.
 Figure 3: Front view of the inflation and cleaning modules as installed.
 <br><br><br><br>
 
+</details>
 
 #  3. Part List
 

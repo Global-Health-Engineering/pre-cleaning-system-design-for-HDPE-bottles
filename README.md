@@ -27,7 +27,9 @@
 
 This technical documentation presents an overview of a prototype for an HDPE bottle pre-cleaning station, developed as a sustainable solution to enhance recycling processes in low-resource settings. The prototype was developed within the master’s thesis of Timo Stutz, contributing to a PhD project conducted by Lin Boynton at the Chair of Global Health Engineering at ETH Zurich. The PhD research aims to design, implement, and evaluate a closed-loop plastic bottle recycling scheme in low-income countries to efficiently, and effectively manage the flow of waste bottles from consumers into new drinking bottles. The prototype addresses the challenges of recycling contaminated HDPE bottles by introducing an efficient, scalable, and locally adaptable pre-cleaning system aiming to reduce the efforts and costs of subsequent recycling processes. Designed and tested through a collaborative research project, this documentation summarizes the prototype's design, constructional and operational procedures, maintenance of the device, and safety recommendations.
 
-The underlying master’s thesis is openly accessible on the ETH Zurich research collection and can be found here: [https://www.research-collection.ethz.ch/handle/20.500.11850/658745](https://www.research-collection.ethz.ch/handle/20.500.11850/658745)
+The underlying master’s thesis is openly accessible on the ETH Zurich research collection and can be found here: 
+- [https://www.research-collection.ethz.ch/handle/20.500.11850/658745](https://www.research-collection.ethz.ch/handle/20.500.11850/658745)
+- [https://doi.org/10.3929/ethz-b-000658745](https://doi.org/10.3929/ethz-b-000658745)
 
 # 2. Prototype Overview
 

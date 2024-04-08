@@ -8,28 +8,24 @@
 
 <b>Contributors</b>  
 - Timo Stutz *author*  
-- Elizabeth Tilley
-<a href="https://orcid.org/0000-0002-2095-9724">
+- Elizabeth Tilley <a href="https://orcid.org/0000-0002-2095-9724">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-2095-9724
 </a> *supervisor*  
-- Lin Boynton
-<a href="https://orcid.org/0000-0002-9944-3834">
+- Lin Boynton <a href="https://orcid.org/0000-0002-9944-3834">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-9944-3834
 </a> *supervisor*  
-- Jakub Tkaczuk
-<a href="https://orcid.org/0000-0001-7997-9423">
+- Jakub Tkaczuk <a href="https://orcid.org/0000-0001-7997-9423">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0001-7997-9423
 </a> *supervisor, developer, maintainer*  
-- Nicolas Seemann-Ricard
-<a href="https://orcid.org/0000-0002-0945-7475">
+- Nicolas Seemann-Ricard <a href="https://orcid.org/0000-0002-0945-7475">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-0945-7475
 </a> *developer*  
 
 <br>
 <p align="middle"> 
-<img src="media/doc_figures/ETH_GHE_logo.svg" width=600>
+<img src="media/doc_figures/ETH_GHE_logo.svg" width=700>
 <br><br>
-This work is certified by the Open Source Hardware Association.  
+This work is certified by the Open Source Hardware Association.<br />
 <a href="https://certification.oshwa.org/ch000021.html"><img src="media/doc_figures/oshw_certif.svg" width=300></a>
 </p>
 
@@ -179,7 +175,7 @@ Construction Steps:
 5. **Add the cutting tool to the workbench:** The cutting tool can be horizontally welded or screwed to the workbench or vertically attached to a wall.
 
 <p align="center"> 
-<img src="media/doc_figures/3d_cutting_module.png">
+<img src="media/doc_figures/3d_cutting_module.png"><br />
 Figure 6: 3D- representation of the cutting module: a) Complete Assembly, b) Explosion view of the handle and joints, c) Explosion view of the inner tube with blades attached, d) Explosion view of the outer tube with the bottle adapter attached.
 </p>
 
@@ -225,7 +221,7 @@ Once the bottle is clean and dry, place it into the stacking module. Place the b
 Inspect the cut and cleaned bottle for any missed contaminants, and if necessary, remove the remains. Place the bottles through the opening onto the transport unit (pole) as represented in Figure 8.
 
 <p align="center"> 
-<img src="media/doc_figures/3d_loading_process.png">
+<img src="media/doc_figures/3d_loading_process.png"><br />
 Figure 8: 3D-representation of the loading process. Bottles are stacked on the pole and slide into the rail.
 </p>
 

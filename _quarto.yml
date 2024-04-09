@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "docs"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cad.qmd
+        text: CAD
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

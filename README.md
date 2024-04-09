@@ -25,14 +25,17 @@
 <p align="middle"> 
 <img src="img/doc_figures/ETH_GHE_logo.svg" width=600>
 <br><br>
-This work is certified by the Open Source Hardware Association.  
+This work is certified by the Open Source Hardware Association.<br \>
 <a href="https://certification.oshwa.org/ch000021.html"><img src="img/doc_figures/oshw_certif.svg" width=300></a>
 <br>
-**The complete description of the system design, its functionalities, and  is available on:  
-[Github pages](https://global-health-engineering.github.io/pre-cleaning-system-design-for-HDPE-bottles/).**  
-It compliments the openly-accessible master’s thesis, available on  
-the [ETH research collection](https://doi.org/10.3929/ethz-b-000658745).  
-The pdf version of this repository is available in the [`report` directory`(report/).
+<b>Complete description of the system design, its functionalities, and  is available on:<br \>
+<a href="https://global-health-engineering.github.io/pre-cleaning-system-design-for-HDPE-bottles/">Github pages</a>.
+</b>
+<br><br>
+It compliments the openly-accessible master’s thesis, available on the<br \>  
+<a href="https://doi.org/10.3929/ethz-b-000658745">ETH Research Collection</a>.
+<br><br>
+The pdf version of this repository is available in the <code>report</code> directory of this repo.
 </p>
 
 # Background

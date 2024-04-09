@@ -1,7 +1,6 @@
 <!-- badges: start -->
-
 [![](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10947980.svg)](https://doi.org/10.5281/zenodo.10947980)
 <!-- badges: end -->
 
 <h1> Design of an HDPE bottle collection and pre-cleaning system for recycling in Blantyre, Malawi </h1>
@@ -28,7 +27,7 @@
 This work is certified by the Open Source Hardware Association.<br \>
 <a href="https://certification.oshwa.org/ch000021.html"><img src="img/doc_figures/oshw_certif.svg" width=300></a>
 <br>
-<b>Complete description of the system design, its functionalities, and  is available on:<br \>
+<b>Complete description of the system design, its functionalities; use, and maintenance procedures are available on:<br \>
 <a href="https://global-health-engineering.github.io/pre-cleaning-system-design-for-HDPE-bottles/">Github pages</a>.
 </b>
 <br><br>

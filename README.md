@@ -27,7 +27,7 @@
 This work is certified by the Open Source Hardware Association.<br \>
 <a href="https://certification.oshwa.org/ch000021.html"><img src="img/doc_figures/oshw_certif.svg" width=300></a>
 <br>
-<b>Complete description of the system design, its functionalities; use, and maintenance procedures are available on:<br \>
+<b>Complete description of system design, functionalities, operation, and maintenance is available on:<br \>
 <a href="https://global-health-engineering.github.io/pre-cleaning-system-design-for-HDPE-bottles/">Github pages</a>.
 </b>
 <br><br>

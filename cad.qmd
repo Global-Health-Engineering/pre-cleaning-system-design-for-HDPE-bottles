@@ -3,7 +3,7 @@ title: "CAD"
 format: html
 ---
 
-The following CAD drawings are available in [`cad`](cad/) directory in the [GitHub repository](https://github.com/Global-Health-Engineering/pre-cleaning-system-design-for-HDPE-bottles).
+The following CAD drawings are available in [`cad`](https://github.com/Global-Health-Engineering/pre-cleaning-system-design-for-HDPE-bottles/tree/main/CAD) directory in the [GitHub repository](https://github.com/Global-Health-Engineering/pre-cleaning-system-design-for-HDPE-bottles).
 
 ```
     cad

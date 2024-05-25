@@ -4,10 +4,10 @@ The `cad` directory contains CAD files produced as a result of the design proces
 
 ## file list
 
-- assembly_workbench.step
 - brush.step
 - complete_assembly.step
 - cutting_tool.step
+- frame_workbench.step
 - super_maheu_bottle.step
 - truck_rail.step
 - water_module.step

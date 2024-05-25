@@ -8,10 +8,10 @@ The following CAD drawings are available in [`cad`](https://github.com/Global-He
 ```
     cad
     ├── README.md
-    ├── assembly_workbench.step
     ├── brush.step
     ├── complete_assembly.step
     ├── cutting_tool.step
+    ├── frame_workbench.step
     ├── super_maheu_bottle.step
     ├── truck_rail.step
     └── water_module.step
@@ -20,10 +20,10 @@ The following CAD drawings are available in [`cad`](https://github.com/Global-He
 
 | file                      | description                                    |
 | ------------------------- | ---------------------------------------------- |
-| `assembly_workbench.step` | ?                                              |
 | `brush.step`              | brush drawing for bottle cleaning              |
 | `complete_assembly.step`  | complete assembly of the HDPE cleaning station |
 | `cutting_tool.step`       | module for cutting the precleaned bottles      |
+| `frame_workbench.step`    | metal workbench, frame of the station          |
 | `super_maheu_bottle.step` | CAD model of the HDPE bottle                   |
 | `truck_rail.step`         | rail for stacking the cleaned and cut bottles  |
 | `water_module.step`       | pressure generation module for clean water     |

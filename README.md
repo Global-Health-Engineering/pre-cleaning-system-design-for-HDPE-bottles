@@ -22,7 +22,7 @@
 
 <br>
 <p align="middle"> 
-<img src="img/doc_figures/ETH_GHE_logo.svg" width=600>
+<img src="img/doc_figures/ETH_GHE_logo_negative.svg" width=600>
 <br><br>
 This work is certified by the Open Source Hardware Association.<br \>
 <a href="https://certification.oshwa.org/ch000021.html"><img src="img/doc_figures/oshw_certif.svg" width=300></a>
